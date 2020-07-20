@@ -1,7 +1,19 @@
 body{
-    background-color: lightcoral;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    background-color: mediumslateblue;
+}
+#filosofia{
+    background-color: tomato;
+    color: white;
+}
+cite{
     text-align: center;
 }
 footer{

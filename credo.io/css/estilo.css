@@ -1,4 +1,5 @@
 body{
+    background-color: #FFFFFF;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
@@ -7,11 +8,11 @@ h1{
 }
 h3{
     text-align: center;
-    background-color: mediumslateblue;
+    background-color: #F44336;
+    color: #BDBDBD
 }
 #filosofia{
-    background-color: tomato;
-    color: white;
+    color: black;
 }
 cite{
     text-align: center;
